@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+background-color:deeppink;
+color:chartreuse;
+}
+button{
+color: deeppink;
+box-shadow: #140909;
+
+}
+
